@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48f1a704-59f2-452a-ada6-089e63531ed4" name="Changes" comment="website updates" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Nagelstudio_Website/style.css" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2fUn6LF4DULBYzl7VOR18L3osSI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Nagelstudio_Website" />
+      <recent name="$PROJECT_DIR$/Nagelstudio_Website/uberMich" />
+      <recent name="$PROJECT_DIR$/Nagelstudio_Website/nagelImages" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Nagelstudio-Website" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Nagelstudio-Website" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48f1a704-59f2-452a-ada6-089e63531ed4" name="Changes" comment="" />
+      <created>1713864348935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713864348935</updated>
+      <workItem from="1713864350307" duration="2009000" />
+      <workItem from="1713866829910" duration="4038000" />
+      <workItem from="1713873309343" duration="186000" />
+      <workItem from="1713873497259" duration="1437000" />
+      <workItem from="1713874976095" duration="515000" />
+      <workItem from="1713875538944" duration="107000" />
+      <workItem from="1713875685909" duration="132000" />
+      <workItem from="1713875830312" duration="738000" />
+      <workItem from="1713879458042" duration="1215000" />
+      <workItem from="1713880689729" duration="3322000" />
+      <workItem from="1713884038076" duration="4000" />
+      <workItem from="1713884107861" duration="15000" />
+      <workItem from="1713884130809" duration="12000" />
+      <workItem from="1713884166705" duration="38000" />
+      <workItem from="1713884244677" duration="44000" />
+      <workItem from="1713884331807" duration="30000" />
+      <workItem from="1713884397419" duration="45000" />
+      <workItem from="1713884462524" duration="1478000" />
+      <workItem from="1713886226446" duration="96000" />
+      <workItem from="1713886324304" duration="9000" />
+      <workItem from="1713886476231" duration="258000" />
+      <workItem from="1713887102969" duration="341000" />
+      <workItem from="1713887503707" duration="70000" />
+      <workItem from="1713887733149" duration="110000" />
+      <workItem from="1713887864918" duration="327000" />
+      <workItem from="1713888248912" duration="1699000" />
+      <workItem from="1713889981932" duration="784000" />
+      <workItem from="1713890769632" duration="12000" />
+      <workItem from="1713966824442" duration="11209000" />
+      <workItem from="1713979159035" duration="1133000" />
+      <workItem from="1713982362423" duration="6343000" />
+      <workItem from="1713988782703" duration="2175000" />
+      <workItem from="1713991568543" duration="100000" />
+      <workItem from="1714030679848" duration="3575000" />
+      <workItem from="1714164934529" duration="16000" />
+      <workItem from="1714164998432" duration="49000" />
+      <workItem from="1714165111382" duration="118000" />
+      <workItem from="1714165315258" duration="13000" />
+    </task>
+    <task id="LOCAL-00001" summary="new commit">
+      <option name="closed" value="true" />
+      <created>1713979560560</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713979560560</updated>
+    </task>
+    <task id="LOCAL-00002" summary="files">
+      <option name="closed" value="true" />
+      <created>1713984585743</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713984585743</updated>
+    </task>
+    <task id="LOCAL-00003" summary="website">
+      <option name="closed" value="true" />
+      <created>1713984598257</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713984598257</updated>
+    </task>
+    <task id="LOCAL-00004" summary="website updates">
+      <option name="closed" value="true" />
+      <created>1713987601841</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713987601841</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new commit" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="new commit website" />
+    <MESSAGE value="files" />
+    <MESSAGE value="website" />
+    <MESSAGE value="website updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="website updates" />
+  </component>
+</project>
